@@ -271,7 +271,7 @@ step_8() {              # Installation
 		chroot . groupmod --new-name ${connexion} ${current_user}
 		
 		# Fix menu entries name and icon
-		cd home/${connexion}/.local/share/applications/
+		cd /home/${connexion}/.local/share/applications/
 		ls *.desktop >list
 		while read entry; do
 			# Give nice name
