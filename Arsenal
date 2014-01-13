@@ -1,0 +1,513 @@
+
+####################################################################
+
+Any tool is a weapon if you hold it right. - Ani Difranco
+
+The Matriux Arsenal contains a huge collection of more than 300 most powerful and versatile security and penetration testing tools. The Matriux Arsenal includes the following tool / utilities / libraries (The ßeta release will contain only few of the listed tools):
+
+This arsenal is for Matriux Leandros RC1 
+
++===================+
+Reconnaissance
++===================+
+
+++=================++
+ DNS
+++=================++
+    chaosmap
+    DIG
+    DNSTracer
+    DNSWalk
+    rebind
+--------x---------
+++=================++
+HTTrack
+++=================++
+    HTTrack
+    WebHTTrack Website Copier
+    Browse Mirrored Websites
+--------x---------
+    Chaosreader
+    Deepmagic Information Gathering Tool
+    dradis framework
+    dsniff password sniffer
+    EtherApe
+    EtherApe (root)
+    fragroute
+    magictree
+    peepdf
+    quickrecon
+    tcpdump
+    tcpslice
+    tcptrace
+    tcptraceroute
+    vidalia
+    Network Analyzer (Wireshark)
+    xtrace
+--------x---------
++===================+
+     Scanning
++===================+
+
+++=================++
+       Cisco
+++=================++
+    CDP Packet Generator
+    CDP Global Exploiter
+    HSRP Generator
+    --------x---------
+++=================++
+    BATMAN-Tools
+++=================++
+    batping
+    batroute
+    batdump
+    -----x-----
+    
+    
+++=================++
+  Routing-Protocols
+++=================++
+
+    Autonomous System Scanner
+    IGRP Route Injector
+    --------x---------
+++=================++
+   Web-Scanners
+++=================++
+    blindelephant
+    dirbuster
+    JHijack
+    Nikto
+    RIPS Scanner
+    theHarvester
+    scrapy
+    urlcrazy
+    vega
+    wafp
+    whatweb
+    xxser
+    XSSploit (CLI)
+    XSSploit (GUI)
+ --------x---------
+    Angry IP Scan
+    CryptCat
+    ettercap console
+    Ettercap Gui
+    file2cable
+    Web Server Fingerprinting Tool
+    gggooglescan
+    metagoofil
+    icmpush
+    icmpquery
+    IRDP Packet Sender
+    IRDP Responder Packet Sender
+    Netcat
+    netenum
+    netmask
+    Nmap
+    Nmap Si4 Full mode
+    Nmap Si4 user mode
+    Nmap Si4 Logr
+    ostinato
+    p0f
+    sinfp
+    snacktime
+    Paris Traceroute
+    Pastenum
+    Protocol Scanner
+    Parallel Internet Measurement Utility
+    t50
+    tctrace
+    THC-Amap
+    wapiti
+    Zenmap
+    Zenmap(root)
++===================+
+- Gain Access (Attack Tools)
++===================+
+
+++=================++
+- Password
+++=================++
+
+    Password List Download
+    apligen
+    BruteSSH
+    Cacheebr
+    EmDebr
+    iisbruteforcer
+    bbox-keygen
+    cmospwd
+    crunch
+    etemenanki
+    gcrack
+    John the ripper
+    rarcrack
+    medusa
+    sucrack
+    THC-Hydra Console
+    THC-Hydra GUI
+    vncrack
+    vncpwddump
+    wfuzz
+    routerkeygen
+    md5pack
+    md5unpack
+    md5-utils
+    --------x-------
+++=================++
+- SQL
+++=================++
+    bing-sqli-scanner
+    bsqlbf
+    minimysqlat0r
+    pblind
+    sqlibf
+    sqlinjtools
+    sqlmap
+    SQLninja
+    sqlid
+    sqlsus
+    --------x-------
+++=================++
+- THC-IPv6
+++=================++
+    address6
+    alive6
+    covert_send6
+    covert_send6d
+    denial6
+    detect-new-ipv6
+    detect_sniffer6
+    dnsdict6
+    dnssrevenum6
+    dnssecwalk
+    dos-new-ip6
+    dump_router6
+    exploit6
+    detectnewip6
+    fakemipv6
+    fake_mld26
+    fake_mld6
+    fake_mldrouter6
+    fake_router6
+    fakeadvertise6
+    fuzzip6
+    implementation6
+    implementation6d
+    parasite6
+    redir6
+    rsmumrf6
+    sendpees6
+    smurf6
+    thcping6
+    toobig6
+    trace6
+--------x---------
+    Mac Changer
+    sipcrack
+    socat
+    
+    
+    
++===================+
+- Framework
++===================+
+
+++=================++
+- Inguma
+++=================++
+    Inguma-cli
+    Inguma-gui
+    --------x---------
+++=================++
+- Metasploit Framework
+++=================++
+    armitage
+    msfconsole
+    msfpro
+    msfupdate
+    --------x---------
+++=================++
+- SET
+++=================++
+    SET Console Mode
+    SET web mode
+    --------x---------
+    
+++=================++
+- w3af
+++=================++
+    w3af console
+    w3af gui
+    --------x---------
+
+    BeEF
+    Grendel-Scan
+    HTTP Request Exploit Framework
+    isr-evilgrade
+    Mantra Framework
+    skipfish
+    webscarab
+    shell storm framework
+    yersinia
+    WSFuzzer
+    subterfuge
+    Burpsuite
+    g0tbeEF
+    Maltego
+    --------x---------
+    
+    
++===================+
+- Radio
++===================+
+
+++=================++
+- Bluetooth
+++=================++
+    bluemaho
+    blueper
+    bluescan
+    bluesnarfer
+    bss
+    carwhisperer
+    haraldscan
+    --------x---------
+++=================++
+-kismet
+++=================++
+    kismet
+    kismet client
+    kismet drone
+    kismet server
+    --------x---------
+++=================++
+- reaver-wps
+++=================++
+    reaver
+    reaverwash
+    --------x---------
+++=================++
+- voip
+++=================++
+    sipvicious
+    authtool
+    enuimiax
+    iaxscan
+    scapy
+    SIP Proxy
+    voiper
+--------x---------
+    airbase-ng
+    aircrack-ng
+    airdecap-ng
+    airdecloak-ng
+    airdriver-ng
+    aireplay-ng
+    airmon-ng
+    airodump-ng
+    airolib-ng
+    airoscript-ng
+    airserv-ng
+    airtun-ng
+    buddy-ng
+    chapcrack-ng
+    cowpatty
+    fern wifi cracker
+    gerix wificracker
+    grimwepa
+    packetforge-ng
+    pyrit
+    wepbuster
+    weplab
+    wesside-ng
+    whichdriver
+    wicd
+    WiFi Radar
+    wifite
+    --------x---------
+    
+    
++===================+
+- Digital-Forensics
++===================+
+
+++=================++
+- Acquisition
+++=================++
+    Automated Image & Restore
+    galleta
+    voolatilitux
+    steghide
+    volatility
+    Guymager
+    --------x---------
+    
+++=================++
+- Analysis
+++=================++
+    bokken & pyew
+    Androguard
+    apk inspector
+    Start Autopsy
+    Autopsy Forensics Browser
+    foremost
+    forensic data identifier
+    Gparted
+    iphone analyzer
+    Jbrofuzz
+    mmsdec
+    scalpel
+    Pasco
+    steghide
+    Vinetto
+    Start WarVOX
+    Open WarVOX Web Interface
+    Xplico Console Mode (Internet Traffic Decoder)
+    Xplico Web Interface (Internet Traffic Decoder)
+    --------x---------
+    
+++=================++
+- Digital Forensic Framework
+++=================++
+    DFF console
+    DFF GUI
+    --------x---------
+++=================++
+- metaextractors
+++=================++
+    antiword
+    catdoc
+    exifcom
+    exifgrep
+    exiflibtool
+    exifprobe
+    exiftags
+    exiftime
+    exiftool
+    exiv2
+    flare
+    flasm
+    jhead
+    pdffonts
+    pdfimages
+    pdfinfo
+    pdftops
+    pdftotext
+    pngchunks
+    pngcp
+    pngcrush
+    pnginfo
+--------x---------
+    dcfldd
+    Draugr
+    Extensive File Dumper
+    Mobius Forensic Toolkit
+    pyflag
+    testdisk
+    warrick
+    Dhash
+    
+    --------x---------
++===================+
+- PCI-DSS
++===================+
+    babel console
+    babel server
+    ccsrch
+    code janitor
+    dep-checker
+    eramba
+    fossbarcode scan
+    fossology
+    ftimes
+    openpscan
+    panbuster
+    seNF
+    Spider Helix Process
+    Spider Helix Server
+    strings
+    stunnel
+    verinice
+    --------x---------
++===================+
+- Debugger
++===================+
+    boomerang
+    Crash
+    ddd
+    dissy
+    e2dbg
+    gdb
+    gdbserver
+    hexedit
+    efence
+    JavaScript Lint
+    netifera
+    valgrind
+    --------x---------
++===================+
+- Tracer
++===================+
+
+++=================++
+- Leak-Tracer
+++=================++
+    Leak Analyze
+    Leak Check
+--------x---------
+    etrace
+    latrace
+    ltrace
+    pstack
+    strace
+    --------x---------
+    
+    
++===================+
+       Misc
++===================+
+
+++=================++
+- Fuzzers
+++=================++
+
+    JbroFuzzer
+    zzuf
+    --------x---------
+++=================++
+- sipvicious
+++=================++
+
+    svcrack
+    svcrash
+    svlearnfp
+    svmap
+    svreport
+    svwar
+    --------x---------
+
+    burpsuite
+    geoipgen
+    packetpig
+    PE file analysis toolkit
+    pytbull
+    ROP gadget
+    Scamper
+    sslstrip
+    stegoshare
+    truecrypt
++===================+
+     Services
++===================+
+    apache start
+    apache stop
+    metasploit start
+    metasploit stop
+    mysql start
+    mysql stop
+    postgresql start
+    postgresql stop
+
